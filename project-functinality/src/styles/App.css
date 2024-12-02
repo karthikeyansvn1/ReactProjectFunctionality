@@ -1,0 +1,23 @@
+:root {
+    --bg-color: #ffffff;
+    --text-color: #000000;
+    --text-secondary: #555555;
+    --border-color: #cccccc;
+    --accent-color: #ff5722;
+  }
+  
+  body.dark {
+    --bg-color: #121212;
+    --text-color: #ffffff;
+    --text-secondary: #bbbbbb;
+    --border-color: #444444;
+    --accent-color: #bb86fc;
+  }
+  
+  body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    margin: 0;
+    font-family: Arial, sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+  }

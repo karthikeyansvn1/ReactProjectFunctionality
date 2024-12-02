@@ -1,0 +1,16 @@
+[
+    {
+      "id": 1,
+      "title": "Animated Landing Page",
+      "description": "A React-based landing page with CSS animations.",
+      "demo": "https://your-demo-link.com",
+      "github": "https://github.com/username/landing-page"
+    },
+    {
+      "id": 2,
+      "title": "Interactive Dashboard",
+      "description": "A React dashboard with dynamic data and animations.",
+      "demo": "https://your-dashboard-demo.com",
+      "github": "https://github.com/username/dashboard"
+    }
+  ]
